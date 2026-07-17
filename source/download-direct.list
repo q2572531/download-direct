@@ -1,0 +1,54 @@
+# Download-direct rules
+
+# Steam
+DOMAIN-SUFFIX,steamcontent.com
+DOMAIN-SUFFIX,steamserver.net
+DOMAIN-SUFFIX,steamusercontent.com
+DOMAIN-SUFFIX,steamstatic.com
+DOMAIN-SUFFIX,steampowered.com
+DOMAIN-SUFFIX,steamdeck.com
+DOMAIN-SUFFIX,cm.steampowered.com
+DOMAIN-SUFFIX,steamchina.com
+DOMAIN-SUFFIX,wmsjsteam.com
+
+DOMAIN,dl.steam.ksyna.com
+DOMAIN,steampipe.steamcontent.tnkjmec.com
+DOMAIN,steamcdn-a.akamaihd.net
+DOMAIN,steamusercontent-a.akamaihd.net
+DOMAIN,steamstore-a.akamaihd.net
+DOMAIN,steamvideo-a.akamaihd.net
+DOMAIN,steambroadcast.akamaized.net
+DOMAIN,steampipe.akamaized.net
+DOMAIN,steampipe-partner.akamaized.net
+DOMAIN,steampipe-kr.akamaized.net
+
+# Epic
+DOMAIN-SUFFIX,epicgames.com
+DOMAIN-SUFFIX,epicgamescdn.com
+
+# Ubisoft
+DOMAIN,uplaypc-s-ubisoft.cdn.ubi.com
+DOMAIN,uplaypc-s-ubisoft.cdn.ubionline.com.cn
+
+# Battle.net
+DOMAIN-SUFFIX,battlenet.com.cn
+
+# Microsoft Update
+DOMAIN-SUFFIX,download.windowsupdate.com
+DOMAIN-SUFFIX,windowsupdate.com
+DOMAIN-SUFFIX,update.microsoft.com
+
+# GOG
+DOMAIN-SUFFIX,gog.com
+DOMAIN-SUFFIX,gogcdn.net
+
+# EA
+DOMAIN-SUFFIX,ea.com
+DOMAIN-SUFFIX,origin.com
+
+# Nintendo
+DOMAIN-SUFFIX,nintendoswitch.cn
+DOMAIN-SUFFIX,nintendoswitch.com.cn
+
+# Xbox
+DOMAIN-SUFFIX,xboxlive.cn
